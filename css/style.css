@@ -24,7 +24,7 @@ header{
   body {
     color:#f2efee;
     font-family:sans-serif;
-    font-size: large;
+    font-size: small;
   }
   .topnav {
     display: flex;
