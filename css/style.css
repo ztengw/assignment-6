@@ -29,6 +29,7 @@ header{
   .topnav {
     display: flex;
     justify-content: space-between;
+    overflow: hidden;
     }
       .topnav a {
     overflow: visible;
